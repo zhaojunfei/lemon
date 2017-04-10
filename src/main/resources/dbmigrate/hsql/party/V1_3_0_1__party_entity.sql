@@ -1,0 +1,6 @@
+
+
+alter table PARTY_ENTITY add column LEVEL INT;
+
+COMMENT ON COLUMN PARTY_ENTITY.LEVEL IS '级别';
+

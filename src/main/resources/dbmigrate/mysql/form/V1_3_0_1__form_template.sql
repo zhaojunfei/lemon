@@ -1,0 +1,8 @@
+
+
+alter table FORM_TEMPLATE add code varchar(50);
+
+ALTER TABLE FORM_TEMPLATE MODIFY COLUMN CONTENT TEXT;
+
+
+
