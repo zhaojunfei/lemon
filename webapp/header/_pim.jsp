@@ -4,7 +4,7 @@
     <div class="navbar-header">
       <a class="navbar-brand" href="${tenantPrefix}/portal/index.do">
 	    <img src="${cdnPrefix}/logo32.png" class="img-responsive pull-left" style="margin-top:-5px;margin-right:5px;">
-	    Lemon <sub><small>1.8.0</small></sub>
+	    ${oaTitle} <sub><small>${oaVersion}</small></sub>
       </a>
     </div>
 

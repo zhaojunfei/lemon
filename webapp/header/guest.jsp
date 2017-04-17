@@ -8,7 +8,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a href="${tenantPrefix}/" class="brand">Lemon <sub><small>1.7.0-SNAPSHOT</small></sub></a>
+          <a href="${tenantPrefix}/" class="brand">${oaTitle} <sub><small>1.7.0-SNAPSHOT</small></sub></a>
         </div>
       </div><!-- /navbar-inner -->
     </div>

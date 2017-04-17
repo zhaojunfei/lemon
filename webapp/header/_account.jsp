@@ -13,7 +13,7 @@
           </a>
           <a href="${tenantPrefix}/portal/index.do" class="brand">
 	        <img src="${cdnPrefix}/logo32.png" class="img-responsive pull-left" style="margin-top:-12px;margin-right:5px;">
-		    Lemon <sub><small>1.8.0</small></sub>
+		    ${oaTitle} <sub><small>${oaVersion}</small></sub>
 		  </a>
           <div class="nav-collapse collapse navbar-responsive-collapse">
             <ul class="nav">
