@@ -30,7 +30,7 @@
 
 		<footer id="m-footer" class="text-center">
 		  <hr>
-		  &copy;Mossle
+		  ${oaCopy}
 		</footer>
 
 </div>

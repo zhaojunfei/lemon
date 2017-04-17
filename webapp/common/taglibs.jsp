@@ -11,3 +11,5 @@
 <c:set var="cdnPrefix" value="${ctx}/cdn"/>
 <c:set var="oaVersion" value="1.8.0"/>
 <c:set var="oaTitle" value="Lemon"/>
+<c:set var="oaCopy" value="mulechina"/>
+

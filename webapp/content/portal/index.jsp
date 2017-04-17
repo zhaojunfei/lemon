@@ -106,7 +106,7 @@
 </div>
 
     <div class="text-center">
-	  &copy;mossle
+	  ${oaCopy}
     </div>
   </body>
 
